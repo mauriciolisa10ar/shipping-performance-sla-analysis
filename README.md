@@ -4,6 +4,12 @@ Supply chain analysis focused on identifying patterns behind shipping delays and
 
 The project uses **Power Query** for data preparation and exploratory analysis and **Power BI / DAX** for data modeling, KPI calculation and interactive visualization.
 
+## Project Files
+
+- [View detailed methodology](documentation/methodology.md)
+- [Download Power BI report](dashboard/Shipping_Performance_Analysis.pbix)
+- [Original dataset on Kaggle](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
+
 ## Dashboard
 
 ### Executive Overview
@@ -97,7 +103,7 @@ The investigation included analysis by shipping mode, order quantity, product ca
 
 Several hypotheses were investigated and discarded when the observed evidence was not sufficiently consistent to explain overall SLA non-compliance.
 
-A detailed description of the analytical process, data transformation and KPI definitions is available in the project methodology documentation.
+For a detailed description of the analytical process, data transformation, hypothesis testing and KPI definitions, see the [Methodology](documentation/methodology.md).
 
 ## Limitations
 
